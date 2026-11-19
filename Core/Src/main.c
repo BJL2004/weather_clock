@@ -98,7 +98,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-		//LED_Toggl();
+		LED_Toggl();
 		HAL_Delay(200);
     /* USER CODE END WHILE */
 
